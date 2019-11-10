@@ -1,0 +1,1 @@
+limit,coins=map(int,input().split())
